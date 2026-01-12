@@ -60,9 +60,11 @@
 
 ## 📞 联系方式
 
+欢迎关注公众号**信息科技云课堂**，获取最新动态和使用帮助。
 如有问题或建议，欢迎通过以下方式联系：
-- 项目地址：[GitHub Repository]
-- 邮箱：[your-email@example.com]
+- **GitHub**：[GitHub Repository](https://github.com/PythonHome-cn/Markdown)
+- **Gitee**：[Gitee Repository](https://gitee.com/KwokChung/Markdown)
+- **微信公众号**：[Markdown编辑器 v2.0](https://mp.weixin.qq.com/s/hhS3LLsCae-sLHkCAcXfsw)
 
 ---
 
