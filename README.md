@@ -4,13 +4,13 @@
 
 基于EasyMDE，使用Html+JavaScript实现，本地化处理，不需要网络，不需要部署，即点即用。
 
-![1](https://github.com/user-attachments/assets/aed052ad-8683-421c-a35e-697211d5e0cb)
+![1](1.jpg)
 
-![2](https://github.com/user-attachments/assets/b7945085-dda9-4ed3-ad4b-c8483735b67c)
+![2](2.jpg)
 
-![3](https://github.com/user-attachments/assets/2843aebf-bffc-4ca6-8325-bbcd4c5165d5)
+![3](3.jpg)
 
-![4](https://github.com/user-attachments/assets/525e8a0e-ecc7-4eb6-8a8d-806334d1cdbf)
+![4](4.jpg)
 
 ## ✨ 核心功能
 
